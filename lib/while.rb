@@ -1,7 +1,8 @@
 def using_while
-  levitation_force = 6
+ counter levitation_force = 6
+ puts
+ counter =+1
 	
-  #your code here
 end
 
 
